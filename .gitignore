@@ -11,7 +11,7 @@ backend/target/
 target/
 
 # Sandbox y herramientas del entorno (no son parte del proyecto)
-app/
+/app/
 .agent/
 .aider-desk/
 .vscode/
