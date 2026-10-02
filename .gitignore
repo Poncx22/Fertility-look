@@ -1,0 +1,19 @@
+# Privado / local: nunca se sube
+.env
+.env.local
+*.local
+
+# Dependencias y compilados
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+backend/target/
+target/
+
+# Sandbox y herramientas del entorno (no son parte del proyecto)
+app/
+.agent/
+.aider-desk/
+.vscode/
+.idea/
+.DS_Store
